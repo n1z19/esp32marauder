@@ -1,4 +1,4 @@
-<!---[![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/justcallmekoko/ESP32Marauder/blob/master/LICENSE)--->
+<!---[![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/n1z19/ESP32Marauder/blob/master/LICENSE)--->
 <!---[![Gitter](https://badges.gitter.im/justcallmekoko/ESP32Marauder.png)](https://gitter.im/justcallmekoko/ESP32Marauder)--->
 <!---[![Build Status](https://travis-ci.com/justcallmekoko/ESP32Marauder.svg?branch=master)](https://travis-ci.com/justcallmekoko/ESP32Marauder)--->
 <!---Shields/Badges https://shields.io/--->
@@ -9,7 +9,7 @@
   <b>A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32</b>
   <br><br>
   <a href="https://github.com/justcallmekoko/ESP32Marauder/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
-  <a href="https://discord.gg/UJCK8Q52sr"><img alt="Discord" src="https://badges.gitter.im/justcallmekoko/ESP32Marauder.png"/></a>
+  <a href="https://discord.gg/cU3ug5yrFz"><img alt="Discord" src="https://badges.gitter.im/justcallmekoko/ESP32Marauder.png"/></a>
   <a href="https://github.com/1nizi9/ESP32Marauder/releases/tag/v1.0.0"><img src="https://img.shields.io/github/downloads/justcallmekoko/ESP32Marauder/total" alt="Downloads"/></a>
   <br>
   <a href="https://www.instagram.com/f82.kerem"><img src="https://img.shields.io/badge/Follow%20Me-Instagram-orange" alt="Instagram"/></a>
@@ -25,6 +25,3 @@
 Download the [latest release](https://github.com/1nizi9/ESP32Marauder/releases/tag/v1.0.0) of the firmware.  
 
 Check out the project [wiki](https://github.com/justcallmekoko/ESP32Marauder/wiki) for a full overview of the ESP32 Marauder
-
-# For Sale Now
-You can buy the ESP32 Marauder using [this link](https://www.tindie.com/products/justcallmekoko/esp32-marauder/)
